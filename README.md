@@ -1,7 +1,7 @@
 # project2
 Oracle&amp;Exerd&amp;Eclipse 연동 콘솔구현
 
-
+![AcademyExerd](https://user-images.githubusercontent.com/47964929/58601949-eb569900-82c5-11e9-9334-c53109449c89.PNG)
 
 
 --queryTest.sql
